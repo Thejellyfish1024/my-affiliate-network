@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: darkgray;
+    height: 100vh;
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.header-h1{
+    padding: 20px;
+    font-size: 56px;
+    margin-bottom: 15px;
+    background-color: darkolivegreen;
+}
+.header-h3{
+    width: 50%;
+    margin: auto;
+    font-size: 40px;
+    background-color: burlywood;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+.main-head{
+    width: 50%;
+    margin: auto;
+    font-size: 45px;
+}
+.pic{
+    width: 600px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.main-pic{
+    width: 50%;
+}
+.offer{
+    margin-bottom: 15px;
+}
+.hurry{
+    background-color: darkblue;
+    color: bisque;
+    padding: 15px;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+.click{
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    border-radius: 45px;
+    padding: 20px;
+    font-style: oblique;
+}
+.sym{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 45px;
+    font-weight: 800px;
+    padding: 0px 10px;
+}
