@@ -16,6 +16,9 @@ body{
     margin-bottom: 15px;
     background-color: darkolivegreen;
 }
+.header-h1:hover{
+    background-color: blueviolet;
+}
 .header-h3{
     width: 50%;
     margin: auto;
@@ -62,4 +65,7 @@ body{
     font-size: 45px;
     font-weight: 800px;
     padding: 0px 10px;
+}
+.click:hover{
+    color: darkblue;
 }
